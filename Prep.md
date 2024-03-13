@@ -1,5 +1,5 @@
 ### I. Installing Unity
-1. Download Unity Hub from [here](https://unity.com/download).
+1. Download [**Unity Hub**](https://unity.com/download).
 2. Run the installer and follow the instructions to install Unity Hub on your computer.
 3. Launch Unity Hub.
 4. Click on the Installs tab on the left side of the Unity Hub window.
