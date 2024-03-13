@@ -4,3 +4,5 @@ This club aims to assist students who want to learn how to create video games wi
 #### I. [Syllabus](https://github.com/AlphaMC0/UGDC/blob/b8b25741030a5aa7a0f590f7908d1cdc9ccc9b57/Syllabus.pdf)
 
 #### II. [Preparation](https://github.com/AlphaMC0/UGDC/blob/9caedc6fdd5cfe79a67b76c1809872add615bb4a/Prep.md)
+
+#### III. [Schedule](https://github.com/AlphaMC0/UGDC/blob/cd3456bc349fcc5fd0e673167cf8d5b20b526799/Schedule.md)
