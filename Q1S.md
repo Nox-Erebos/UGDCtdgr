@@ -7,6 +7,8 @@
 **Resources**
 - [**Preparation**](https://github.com/AlphaMC0/UGDC/blob/main/Prep.md)
 
+___________________
+
 **Week 2 - Design**
 
 **Topics Covered**
