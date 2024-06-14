@@ -1,6 +1,8 @@
 # Quarter 1
 
 **Week 1 - Introduction**
+
+**Topics Covered**
 - Introduction to club and club members
 - Introduction to Unity and Github
 
@@ -8,7 +10,7 @@
 - [**Preparation**](https://github.com/AlphaMC0/UGDC/blob/main/Prep.md)
 
 **Assignments**
-- (No Assignments)
+- Write 2-3 sentences talking about who you are and why you wanted to join the club in **Github** and send a link of the Github Repository to (suylising@jpa.org.kh).
 
 ___________________
 
