@@ -10,7 +10,7 @@
 - [**Preparation**](https://github.com/AlphaMC0/UGDC/blob/main/Prep.md)
 
 **Assignments**
-- Write 2-3 sentences talking about who you are and why you wanted to join the club in **Github** and send a link of the Github Repository to (suylising@jpa.org.kh).
+- Write 2-3 sentences talking about who you are and why you wanted to join the club in **Github** and send a link of the Github Repository to (unity@jpa.org.kh).
 
 ___________________
 
