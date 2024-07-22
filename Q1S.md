@@ -1,6 +1,6 @@
 # Quarter 1
 
-**Week 1 - Introduction**
+**Week 1 - Introduction** (Lida)
 
 **Topics Covered**
 - Introduction to club and club members
@@ -17,7 +17,7 @@
 
 ___________________
 
-**Week 2 - Design**
+**Week 2 - Design** (Lising)
 
 **Topics Covered**
 - Creating GameObjects
