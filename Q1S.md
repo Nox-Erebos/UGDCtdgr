@@ -5,6 +5,7 @@
 **Topics Covered**
 - Introduction to club and club members
 - Introduction to Unity and Github
+- Installation of Unity and VS Code 
 
 **Resources**
 - [**Preparation**](https://github.com/AlphaMC0/UGDC/blob/main/Prep.md)
