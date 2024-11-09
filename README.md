@@ -7,4 +7,4 @@ This club aims to assist students who want to learn how to create video games wi
 
 #### III. [Schedule](https://github.com/AlphaMC0/UGDC/blob/cd3456bc349fcc5fd0e673167cf8d5b20b526799/Schedule.md)
 
-#### IV. [Q1 Schedule]()
+#### IV. [Q1 Schedule](https://github.com/Nox-Erebos/UGDC/blob/main/Q1S.md)
