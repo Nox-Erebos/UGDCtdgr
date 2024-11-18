@@ -31,4 +31,7 @@ ___________________
 **Assignments**
 - (No Assignments)
 
+**Week 3 - Into to 3d Assets**
+- [**3d-Asset**]()
+
 ___________________
