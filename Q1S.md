@@ -33,6 +33,12 @@ ___________________
 
 **Week 3 - Into to 3d Assets**
 - [**3d-Asset**](https://learn.unity.com/tutorial/project-files-prepare-for-the-unity-certified-associate-game-developer-exam-98049840928345928305983#)
-- scroll down and download "IntoTo3D-Assets.zip" 
+- scroll down and download "IntoTo3D-Assets.zip"
+***Topics Covered***
+- Go through the basics of 3D games
+  -  Game Objects
+  -  rigid bodies/collisions
+  -  simple physics
+
 
 ___________________
